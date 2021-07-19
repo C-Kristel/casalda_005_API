@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Secure API for phonebook",
   "main": "index.js",
+
+  "engines": {
+    "node": "14.17.2"
+  },
   "scripts": {
     "start": "nodemon app.js"
   },
